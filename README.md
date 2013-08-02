@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CodeIgniter Rest Server
 
 A fully RESTful server implementation for CodeIgniter using one library, one
@@ -221,3 +222,7 @@ fix issues as and when they are reported (within a week or two).
 
 Pull Requests are the best way to fix bugs or add features. I know loads of you use this, so please 
 contribute if you have improvements to be made and I'll keep releasing versions over time.
+=======
+IPN
+===
+>>>>>>> 22be235a57e8d7b54e61cb67a85c74716c474dcf
